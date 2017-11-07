@@ -572,7 +572,7 @@ body textarea::placeholder {
 }
 
 .footer ul li {
-  width: 50%;
+  width: 60%;
   margin: 10px auto;
   text-align: left;
 }
@@ -627,6 +627,11 @@ body textarea::placeholder {
 
 .footer_extra .sect_title {
   margin-bottom: 30px;
+  color: #444444;
+}
+
+.footer_extra .sect_title hr {
+  color: #444444;
 }
 
 .footer_extra .client_group {
